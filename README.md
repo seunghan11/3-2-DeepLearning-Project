@@ -4,7 +4,7 @@ https:/github.com/seunghan11 폴더는 참조한 stable diffusion에 수정된 v
 또한 master branch는 사용된 dataset 및 각 dataset에 대한 결과입니다.
 
 ## Model
-
+reference site: https://d2l.ai/chapter_computer-vision/ssd.html  
 
 ## Dataset&Hyperparameter
 dataset1은 crop data  
