@@ -5,6 +5,7 @@ https:/github.com/seunghan11 폴더는 참조한 stable diffusion에 수정된 v
 
 ## Model
 reference site: https://d2l.ai/chapter_computer-vision/ssd.html  
+<img width="341" alt="TinySSD" src="https://github.com/seunghan11/3-2-DeepLearning-Project/assets/88572826/6e191785-a9a4-444a-b8d4-6ce78715e2fc">
 
 ## Dataset&Hyperparameter
 dataset1은 crop data  
