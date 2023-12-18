@@ -17,3 +17,9 @@ dataset1은 crop data + augmented data + generated data 입니다.
 
 master branch 내 pdf가 프로젝트 결과 보고서입니다.
 
+model&dataset evaluation code:
+https://colab.research.google.com/drive/1GvWJv_4-veql7QZloot9gckei9jZb_Ln?usp=sharing
+
+Bounding Box label code:
+https://drive.google.com/file/d/1Fqq45OTED3WQawWCcd_jF3UmR85qW0I5/view?usp=sharing
+
